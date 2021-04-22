@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding in python
 - 🌱 I’m currently learning mysql
 - 💞️ I’m looking to collaborate on everything
-- 📫 Reach me on gmail pls: justananonymoushackerhahaha@gmail.com
+- 📫 Reach me on gmail pls: shet.aniketh@gmail.com
 
 <!---
 atodead/atodead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
